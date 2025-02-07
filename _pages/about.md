@@ -1,4 +1,11 @@
-# About Myself
+---
+permalink: /
+title: "About Myself"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I'm a senior student from the Department of [Computer Science and Engineering, at Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/), and I will also complete my master's studies here. 
 My research interests include deep learning, text-to-speech, and diffusion models.
